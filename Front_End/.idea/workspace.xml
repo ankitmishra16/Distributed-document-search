@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bef6bec-ecde-4046-95b5-95356c27939c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/distributed-search-frontend/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/model/proto/Search_Cluster_Proto.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/cluster/management/ServiceRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/cluster/management/ServiceRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/model/frontend/FrontendSearchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/model/frontend/FrontendSearchRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/model/frontend/FrontendSearchResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/model/frontend/FrontendSearchResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/model/proto/SearchModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/model/proto/SearchModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/networking/OnRequestCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/networking/OnRequestCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/networking/WebClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/networking/WebClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/networking/WebServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/networking/WebServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/search/UserSearchHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/java/search/UserSearchHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/resources/ui_assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/resources/ui_assets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-search-frontend/src/main/resources/ui_assets/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-search-frontend/src/main/resources/ui_assets/javascript.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/distributed-search-frontend" />
+  </component>
+  <component name="ProjectId" id="1ZHh5ydlC0ahQkZZxpWINPMEn7x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bef6bec-ecde-4046-95b5-95356c27939c" name="Default Changelist" comment="" />
+      <created>1584501747519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584501747519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585125350227">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585125350227" />
+  </component>
+</project>
